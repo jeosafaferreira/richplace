@@ -1,29 +1,32 @@
-# VueJS-with-Vite
+# DesenvSoftwareNuvem  
+Tecnologias: Node.js, Bootstrap, Express.js, Replit, Heroku
 
-This template should help get you started developing with Vue 3 in Vite.
+### Trabalho 2 - RichPlace - Loja Virtual  
 
-## Recommended IDE Setup
-
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
-
-## Customize configuration
-
-See [Vite Configuration Reference](https://vitejs.dev/config/).
-
-## Project Setup
-
-```sh
-npm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
+#### Jeosafá
+Routes:  
+Produto 1 (Casa);  
+Produto 2 (Avião);  
+Produto 3 (Helicóptero);  
+Característica do produto 1 (Query - Cor)  
+Característica do produto 2 (Query - Aeroporto)  
+function defineCor()  
+function defineAeroporto()  
+  
+#### Nicolas
+Produto 1 ();  
+Produto 2 ();  
+Produto 3 ();  
+Característica do produto 1 (Query - )  
+Característica do produto 2 (Query - )  
+function
+function
+  
+#### Eric:
+Produto 1 ();  
+Produto 2 ();  
+Produto 3 ();  
+Característica do produto 1 (Query - )  
+Característica do produto 2 (Query - )  
+function
+function
