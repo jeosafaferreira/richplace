@@ -14,13 +14,13 @@ function defineCor()
 function defineAeroporto()  
   
 #### Nicolas
-Produto 1 ();  
-Produto 2 ();  
-Produto 3 ();  
-Característica do produto 1 (Query - )  
-Característica do produto 2 (Query - )  
-function
-function
+Produto 1 (Navio);  
+Produto 2 (Jet ski);  
+Produto 3 (Lancha);  
+Característica do produto 1 (Query - Nome )  
+Característica do produto 2 (Query - Marca )  
+function defineNome()
+function defineMarca()
   
 #### Eric:
 Produto 1 ();  
