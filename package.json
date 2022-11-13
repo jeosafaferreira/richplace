@@ -2,12 +2,14 @@
   "name": "vuejs-with-vite",
   "version": "0.0.0",
   "scripts": {
+    "serve": "vue-cli-service serve",
     "dev": "vite",
     "build": "vite build",
     "preview": "vite preview --port 5000"
   },
   "dependencies": {
-    "vue": "^3.2.37"
+    "vue": "^3.2.45",
+    "vue-router": "^4.1.6"
   },
   "devDependencies": {
     "@vitejs/plugin-vue": "^3.0.1",
