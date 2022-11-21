@@ -35,7 +35,7 @@
       <div class="card" style="width: 18rem;">
         <img src="https://img.olhardigital.com.br/wp-content/uploads/2021/07/60d9fab836cf170019de80e1.jpg" class="card-img-bottom">
           <div class="card-body">
-            <h5 class="card-title">PASCOE INTERNATIONAL 26-FT<br>R$15.000.000</h5>
+            <h5 class="card-title">PASCOE INTERNATIONAL 26-FT<br>R$1.000.000.000</h5>
             <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
             <router-link to="/detalhes/iate" class="btn btn-primary">Ver Detalhes</router-link>
           </div>
@@ -49,6 +49,15 @@
     <router-link to="/detalhes/jetsky" class="btn btn-primary">Ver Detalhes</router-link>
   </div>
         </div>
+      
+      <div class="card" style="width: 18rem;">
+        <img src="https://s2.glbimg.com/JlvKXOOCEjXhQVjv6EMIWukkpWE=/0x0:2000x1400/924x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_cf9d035bf26b4646b105bd958f32089d/internal_photos/bs/2021/9/2/i6rjirSaqgVxkb1BQcSg/lavoiturebugatti.jpg" class="card-img-bottom">
+          <div class="card-body">
+            <h5 class="card-title">Bugatti La Voiture Noir<br>R$67.000.000</h5>
+            <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+            <router-link to="/detalhes/carro" class="btn btn-primary">Ver Detalhes</router-link>
+          </div>
+      </div>
 
     </div>
 			</div>
