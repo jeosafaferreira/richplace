@@ -14,7 +14,7 @@ function defineCor()
 function defineAeroporto()  
   
 #### Nicolas
-Produto 1 (Navio);  
+Produto 1 (Iate);  
 Produto 2 (Jet ski);  
 Produto 3 (Lancha);  
 Característica do produto 1 (Query - Nome )  
