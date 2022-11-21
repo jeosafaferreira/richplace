@@ -6,8 +6,8 @@
 </template>
 
 <script>
-import ParteSuperior from '@/components/ParteSuperior.vue'
-import Rodape from '@/components/Rodape.vue'
+import ParteSuperior from '@/components/parteSuperior.vue'
+import Rodape from '@/components/rodape.vue'
 export default {
   components: {
       ParteSuperior, Rodape

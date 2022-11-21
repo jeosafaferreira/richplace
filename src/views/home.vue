@@ -29,9 +29,29 @@
     				<p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
     				<router-link to="/detalhes/helicoptero" class="btn btn-primary">Ver Detalhes</router-link>
   				</div>
+      </div>
+    </div>
+    <div class="d-flex flex-row justify-content-between" style="margin: 0px 30px 0px 30px">
+      <div class="card" style="width: 18rem;">
+        <img src="https://img.olhardigital.com.br/wp-content/uploads/2021/07/60d9fab836cf170019de80e1.jpg" class="card-img-bottom">
+          <div class="card-body">
+            <h5 class="card-title">PASCOE INTERNATIONAL 26-FT<br>R$15.000.000</h5>
+            <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+            <router-link to="/detalhes/iate" class="btn btn-primary">Ver Detalhes</router-link>
+          </div>
+      </div>
+       
+        <div class="card" style="width: 18rem;">
+<img src="https://assets.newatlas.com/dims4/default/7b4a4b4/2147483647/strip/true/crop/3508x2339+0+71/resize/840x560!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2Farchive%2Fbelassi-b3r-worlds-most-powerful-pwc-jet-ski.jpg" class="card-img-bottom">
+  <div class="card-body">
+    <h5 class="card-title">Belassi B3R Sport<br>R$163.500.000</h5>
+    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+    <router-link to="/detalhes/jetsky" class="btn btn-primary">Ver Detalhes</router-link>
+  </div>
+        </div>
+
+    </div>
 			</div>
-		</div>
-	</div>
 </template>
 
 <script>

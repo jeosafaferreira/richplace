@@ -1,8 +1,6 @@
 <template>
 	<div class="container" style="padding-top: 40px;">
-		<h3>Detalhes do Avião
-    
-    jjjjj,lk</h3>
+		<h3>Detalhes do Iate</h3>
 	</div>
 </template>
 
