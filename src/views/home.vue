@@ -1,6 +1,6 @@
 <template>
 	<div class="container" style="height:500px">
-		<div class="jumbotron" style="height: 180px;">
+		<div class="jumbotron" style="height: 210px;">
 			<h1 class="display-4">Produtos</h1>
 			<hr />
 			<p class="text-muted">Imagens meramente ilustrativas.</p>
@@ -11,7 +11,7 @@
 				<div class="card-body">
 	    			<h5 class="card-title">Aeronave Citation<br>R$2.000.000</h5>
     				<p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-					<router-link to="/detalhes/aviao" class="btn btn-primary">Ver Detalhes</router-link>
+					<router-link to="/detalhes/citation" class="btn btn-primary">Ver Detalhes</router-link>
   				</div>
 			</div>
 			<div class="card" style="width: 18rem;">
@@ -19,7 +19,7 @@
   				<div class="card-body">
 	    			<h5 class="card-title">Alphaville<br>R$600.000</h5>
     				<p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-    				<router-link to="/detalhes/casa" class="btn btn-primary">Ver Detalhes</router-link>
+    				<router-link to="/detalhes/alphaville" class="btn btn-primary">Ver Detalhes</router-link>
   				</div>
 			</div>
 			<div class="card" style="width: 18rem;">
@@ -27,7 +27,7 @@
   				<div class="card-body">
 	    			<h5 class="card-title">Eurocopter Magnum<br>R$1.350.000</h5>
     				<p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-    				<router-link to="/detalhes/helicoptero" class="btn btn-primary">Ver Detalhes</router-link>
+    				<router-link to="/detalhes/eurocopter" class="btn btn-primary">Ver Detalhes</router-link>
   				</div>
       </div>
     </div>
@@ -37,7 +37,7 @@
           <div class="card-body">
             <h5 class="card-title">PASCOE INTERNATIONAL 26-FT<br>R$1.000.000.000</h5>
             <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-            <router-link to="/detalhes/iate" class="btn btn-primary">Ver Detalhes</router-link>
+            <router-link to="/detalhes/pascoe" class="btn btn-primary">Ver Detalhes</router-link>
           </div>
       </div>
        
@@ -46,7 +46,7 @@
   <div class="card-body">
     <h5 class="card-title">Belassi B3R Sport<br>R$163.500.000</h5>
     <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-    <router-link to="/detalhes/jetsky" class="btn btn-primary">Ver Detalhes</router-link>
+    <router-link to="/detalhes/belassi" class="btn btn-primary">Ver Detalhes</router-link>
   </div>
         </div>
       
@@ -55,7 +55,7 @@
           <div class="card-body">
             <h5 class="card-title">Bugatti La Voiture Noir<br>R$67.000.000</h5>
             <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-            <router-link to="/detalhes/carro" class="btn btn-primary">Ver Detalhes</router-link>
+            <router-link to="/detalhes/bugatti" class="btn btn-primary">Ver Detalhes</router-link>
           </div>
       </div>
 

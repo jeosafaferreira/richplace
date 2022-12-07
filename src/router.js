@@ -16,16 +16,28 @@ export default createRouter({
       component: () => import('@/views/pagina2.vue'),
     },
     {
-      path: '/detalhes/aviao',
-      component: () => import('@/views/detalhes/aviao.vue'),
+      path: '/detalhes/citation',
+      component: () => import('@/views/detalhes/citation.vue'),
     },
     {
-      path: '/detalhes/casa',
-      component: () => import('@/views/detalhes/casa.vue'),
+      path: '/detalhes/alphaville',
+      component: () => import('@/views/detalhes/alphaville.vue'),
     },
     {
-      path: '/detalhes/helicoptero',
-      component: () => import('@/views/detalhes/helicoptero.vue'),
+      path: '/detalhes/eurocopter',
+      component: () => import('@/views/detalhes/eurocopter.vue'),
+    },
+    {
+      path: '/detalhes/pascoe',
+      component: () => import('@/views/detalhes/pascoe.vue'),
+    },
+    {
+      path: '/detalhes/belassi',
+      component: () => import('@/views/detalhes/belassi.vue'),
+    },
+    {
+      path: '/detalhes/bugatti',
+      component: () => import('@/views/detalhes/bugatti.vue'),
     },
   ],
 })
