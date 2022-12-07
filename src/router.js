@@ -39,5 +39,9 @@ export default createRouter({
       path: '/detalhes/bugatti',
       component: () => import('@/views/detalhes/bugatti.vue'),
     },
+    {
+      path: '/login',
+      component: () => import('@/views/login.vue'),
+    },
   ],
 })
