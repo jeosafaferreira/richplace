@@ -5,7 +5,7 @@ export default createRouter({
   routes: [
     {
       path: '/',
-      component: () => import('@/views/home.vue'),
+      component: () => import('@/views/login.vue'),
     },
     {
       path: '/pagina1',
@@ -40,8 +40,8 @@ export default createRouter({
       component: () => import('@/views/detalhes/bugatti.vue'),
     },
     {
-      path: '/login',
-      component: () => import('@/views/login.vue'),
+      path: '/home',
+      component: () => import('@/views/home.vue'),
     },
   ],
 })

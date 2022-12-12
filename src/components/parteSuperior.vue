@@ -2,7 +2,7 @@
 	<span>
 	   <!-- Menu do Topo -->
 	   <nav class="navbar navbar-expand-md navbar-dark fixed-top bg-dark">
-		  <router-link class="navbar-brand" to="/">RichPlace!</router-link>
+		  <router-link class="navbar-brand" to="/home">RichPlace!</router-link>
 		  <button
 			 class="navbar-toggler"
 			 type="button"

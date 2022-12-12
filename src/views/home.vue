@@ -31,7 +31,7 @@
   				</div>
       </div>
     </div>
-    <div class="d-flex flex-row justify-content-between" style="margin: 0px 30px 0px 30px">
+    <div class="d-flex flex-row justify-content-between" style="margin: 30px">
       <div class="card" style="width: 18rem;">
         <img src="https://img.olhardigital.com.br/wp-content/uploads/2021/07/60d9fab836cf170019de80e1.jpg" class="card-img-bottom">
           <div class="card-body">
