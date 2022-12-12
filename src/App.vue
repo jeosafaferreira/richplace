@@ -11,7 +11,7 @@ import Rodape from '@/components/rodape.vue'
 export default {
   components: {
       ParteSuperior, Rodape
-   }
+   },
 }
 </script>
 
