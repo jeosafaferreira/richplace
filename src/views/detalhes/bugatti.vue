@@ -48,7 +48,7 @@ export default {
       modelo: 'La Voiture Noir',
       fabricante: 'Bugatti',
       ano:'2022',
-      valor: '67.000.000',
+      valor: '21.000.000',
       
       novoModelo: '',
       novoFabricante: '',

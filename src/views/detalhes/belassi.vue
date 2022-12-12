@@ -48,7 +48,7 @@ export default {
       modelo: 'B3R Sport',
       fabricante: 'Belassi',
       ano:'2021',
-      valor: '163.500.000',
+      valor: '1.000.000',
       
       novoModelo: '',
       novoFabricante: '',
